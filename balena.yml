@@ -5,7 +5,7 @@ assets:
   repository:
     type: blob.asset
     data:
-      url: 'https://github.com/balenalabs/balena-cam'
+      url: 'https://github.com/nathancdaniels/balena-cam'
   logo:
     type: blob.asset
     data:
