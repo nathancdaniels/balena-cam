@@ -1,1 +1,1 @@
-FROM navikey/raspbian-buster
+FROM balenalib/raspberry-pi-debian
