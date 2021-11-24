@@ -1,1 +1,1 @@
-FROM balenalib/raspberry-pi-debian
+FROM balenalib/raspberry-pi
