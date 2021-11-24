@@ -1,1 +1,1 @@
-FROM raspbian/stretch
+FROM navikey/raspbian-buster
