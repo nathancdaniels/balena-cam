@@ -1,1 +1,1 @@
-FROM balenalib/raspberry-pi-debian:latest
+FROM armpits/raspbian-buster-lite-armhf
