@@ -1,1 +1,1 @@
-FROM 2000cubits/raspbian
+FROM raspbian/stretch
